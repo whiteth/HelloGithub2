@@ -27,7 +27,7 @@ Course Outline :
 
  5. A quick course survey
 
-> [get more about Github](https://www.ithome.com.tw/news/95284)
+> [get more interested in Github](https://www.ithome.com.tw/news/95284)
 
 > About 2. you may find some famous repo such as r4ds as your example
 
