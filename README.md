@@ -23,9 +23,17 @@ Course Outline :
  
  - add local repository
  
+ ---
+ 
+ (19:50 10min break)
+ 
  4. A smart tool---gitter
+ 
+ 5. Find a partner and it's your turn!!
+ 
+ - give it a try on ??
 
- 5. A quick course survey
+ 6. A quick course survey
 
 > [get more interested in Github](https://www.ithome.com.tw/news/95284)
 
