@@ -12,11 +12,7 @@ Course Outline :
  1. what is Git (a version control system)
  
  2. Environment on Github and Github desktop
- 
- - `code` `issue` `project` `wiki` `settings`
- 
- - `Fork` `branch` `pull request`
- 
+
  3. Let's try on your own 
  
  ---
@@ -37,9 +33,4 @@ Course Outline :
 
 > [interesting article about Github](https://www.ithome.com.tw/news/95284)
 
-
-
-> About 2. you may find some famous repo such as r4ds as your example
-
-> what's the `watch` `star` `fork` meaning?
 
