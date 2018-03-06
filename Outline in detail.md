@@ -5,6 +5,8 @@
 
 #### GTD
 
+the Chinese word
+
 what's gist?
 
 what are the good plug-in on Github （not included in class)?
@@ -12,13 +14,15 @@ what are the good plug-in on Github （not included in class)?
 Is there any time to get more understanding on bookdown(the `pandoc` package)
 
 
+
+
 ---
 
 #### Course Outline : 
 
- 1. what is Git (a version control system)
+ 1. what is Git (a version control system) (介紹觀念，很重要）
  
- 2. Environment on Github (cloud)
+ 2. Environment on Github (cloud)(開一個`test.md` file）
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -48,7 +52,7 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  
  (19:50 10min break)
  
-  - create your own repo and named it as `HelloGithub_Learning`
+ - create your own repo and named it as `HelloGithub_Learning`
  
  - add the classmates beside you as your collaborator
  
