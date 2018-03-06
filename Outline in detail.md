@@ -22,7 +22,7 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
 
  1. what is Git (a version control system) (介紹觀念，很重要）
  
- 2. Environment on Github ++cloud++(開一個`test.md` file）
+ 2. Environment on Github (**cloud**)(開一個`test.md` file）
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -30,7 +30,7 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  
  - `branch` 
  
- 3. Environment on  Github desktop (++本機英文怎麼講++）
+ 3. Environment on  Github desktop (**本機英文怎麼講**）
  
  - `clone`
  
