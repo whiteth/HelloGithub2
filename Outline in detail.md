@@ -3,29 +3,62 @@
 
 ### this is the repo for Github minicourse in E.Major 
 
+#### GTD
+
+what's gist?
+
+what are the good plug-in on Github （not included in class)?
+
+Is there any time to get more understanding on bookdown(the `pandoc` package)
 
 
+---
 
-
-Course Outline : 
+#### Course Outline : 
 
  1. what is Git (a version control system)
  
- 2. Environment on Github and Github desktop
+ 2. Environment on Github (cloud)
  
- - `Fork`
+ - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
- - `code` `issue` `project` `wiki` `settings`
+ - `code` `issue` `project` `settings`(setting is for adding collaborator and swifting any option for the repo such as delete)
  
- - `branch` `pull request`
+ - `branch` 
+ 
+ 3. Environment on  Github desktop (本機英文怎麼講）
+ 
+ - `clone`
+ 
+ - `commit`+`push`
+ 
+ - `commit`+`reverse`
+ 
+ - `Add local repository` + `publish`
  
  3. Let's try on your own 
+ 
+ - create a issue on this repo
+ 
+ - create a branch on this repo that you forked and clone it
+ 
+ - add something new on the `test.md` file then commit it 
  
  ---
  
  (19:50 10min break)
  
+  - create your own repo and named it as `HelloGithub_Learning`
+ 
+ - add the classmates beside you as your collaborator
+ 
+ --- 
+ 
  4. Let's work in a pair to resemble as team project
+ 
+ - `pull request`
+ 
+ 
  
  5. To know what to do when it's a contradiction
  
