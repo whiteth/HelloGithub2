@@ -35,7 +35,7 @@ Course Outline :
  
 > [Gitter, where developers come to talk](https://gitter.im/apps)
 
-> [interesting article in Github](https://www.ithome.com.tw/news/95284)
+> [interesting article about Github](https://www.ithome.com.tw/news/95284)
 
 
 
