@@ -13,9 +13,11 @@ Course Outline :
  
  2. Environment on Github and Github desktop
  
+ - `Fork`
+ 
  - `code` `issue` `project` `wiki` `settings`
  
- - `Fork` `branch` `pull request`
+ - `branch` `pull request`
  
  3. Let's try on your own 
  
