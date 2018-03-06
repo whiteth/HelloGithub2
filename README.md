@@ -11,31 +11,33 @@ Course Outline :
 
  1. what is Git (a version control system)
  
- 2. what is Github
+ 2. Environment on Github and Github desktop
  
  - `code` `issue` `project` `wiki` `settings`
  
  - `Fork` `branch` `pull request`
  
- 3. what is Github desktop
- 
- - `clone` `commit` `pull` `push`
- 
- - add local repository
+ 3. Let's try on your own 
  
  ---
  
  (19:50 10min break)
  
- 4. A smart tool---gitter
+ 4. Let's work in a pair to resemble as team project
  
- 5. Find a partner and it's your turn!!
+ 5. To know what to do when it's a contradiction
  
- - give it a try on ??
-
  6. A quick course survey
+ 
+ ---
+ 
+ Bonus:
+ 
+> [Gitter, where developers come to talk](https://gitter.im/apps)
 
-> [get more interested in Github](https://www.ithome.com.tw/news/95284)
+> [interesting article in Github](https://www.ithome.com.tw/news/95284)
+
+
 
 > About 2. you may find some famous repo such as r4ds as your example
 
