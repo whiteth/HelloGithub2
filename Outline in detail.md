@@ -78,7 +78,3 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
 
 
 
-> About 2. you may find some famous repo such as r4ds as your example
-
-> what's the `watch` `star` `fork` meaning?
-
