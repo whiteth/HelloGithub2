@@ -26,9 +26,11 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
- - `code` `issue` `project` `Wiki` `settings`(Let's look at `r4ds` and `E.Major-FB` repo)
+ - `code` `issue` `project` `Wiki` `settings`
+ > Let's look at `r4ds` and `E.Major-FB` repo
  
  - `branch` 
+ > Let's create a branch called `Studying_0313_your english name` on Github
  
  3. Environment on  Github desktop (**本機英文怎麼講**）
  
