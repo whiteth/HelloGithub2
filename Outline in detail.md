@@ -31,6 +31,8 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  
  - `branch` 
  > Let's create a branch called `Studying_0313_your english name` on Github
+ > creat a new file call `ToShowBranch_0313_your english name` in the branch
+ > what happen at `Nework` in `Insights`?
  
  3. Environment on  Github desktop (**本機英文怎麼講**）
  
