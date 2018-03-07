@@ -22,11 +22,11 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
 
  1. what is Git (a version control system) (介紹觀念，很重要）
  
- 2. Environment on Github (**cloud**)(開一個`test.md` file）
+ 2. Environment on Github (**cloud**)
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
- - `code` `issue` `project` `settings`(setting is for adding collaborator and swifting any option for the repo such as delete)
+ - `code` `issue` `project` `Wiki` `settings`(Let's look at `r4ds` and `E.Major-FB` repo)
  
  - `branch` 
  
