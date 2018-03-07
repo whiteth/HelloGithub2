@@ -13,6 +13,8 @@ what are the good plug-in on Github （not included in class)?
 
 Is there any time to get more understanding on bookdown(the `pandoc` package)
 
+Finally, I will need three outline file Outline (in detail) (in further detailed)
+
 
 
 
@@ -36,17 +38,23 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  
  > what happen at `Nework` in `Insights`?
  
- 3. Environment on  Github desktop (**本機英文怎麼講**）
+ 3. Environment on  Github desktop (**本機英文怎麼講**）(從這邊開始，
  
  - `clone`
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
+ 
+ > Now, stay at the branch in Github desktop
  
  - `commit`+`push`
  
  - `commit`+`reverse`
  
  - `Add local repository` + `publish`
+ 
+ > this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`
+ 
+ > Now, send yourself a pull request (這邊需要截圖）
  
  3. Let's try on your own 
  
