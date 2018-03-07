@@ -31,12 +31,16 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  
  - `branch` 
  > Let's create a branch called `Studying_0313_your english name` on Github
+ 
  > creat a new file call `ToShowBranch_0313_your english name` in the branch
+ 
  > what happen at `Nework` in `Insights`?
  
  3. Environment on  Github desktop (**本機英文怎麼講**）
  
  - `clone`
+ 
+ > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
  - `commit`+`push`
  
@@ -47,10 +51,6 @@ Is there any time to get more understanding on bookdown(the `pandoc` package)
  3. Let's try on your own 
  
  - create a issue on this repo
- 
- - create a branch on this repo that you forked and clone it
- 
- - add something new on the `test.md` file then commit it 
  
  ---
  
