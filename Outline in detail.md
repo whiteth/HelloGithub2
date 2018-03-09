@@ -44,11 +44,17 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
- > Now, stay at the branch in Github desktop
+ > Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
  - `commit`+`push`
  
- - `commit`+`reverse`
+ - `reverse`
+ 
+ > Let's go back to see your `Atom`, the change should be reverted!
+ 
+ - `reverse`+`commit`+`push`
+ 
+ > the local is changed and we need to sync the cloud, namely Github!
  
  - `Add local repository` + `publish`
  
