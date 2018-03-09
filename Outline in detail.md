@@ -34,7 +34,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  - `branch` 
  > Let's create a branch called `Studying_0313_your english name` on Github
  
- > creat a new file call `ToShowBranch_0313_your english name` in the branch
+ > creat a new file call `ToShowBranch_0313_your english name.md` in the branch
  
  > what happen at `Nework` in `Insights`?
  
@@ -44,7 +44,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
- #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
+ #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `ToShowBranch_0313_your english name.md` file
  
  - `commit`+`push`
  
