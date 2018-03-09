@@ -52,7 +52,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > Let's go back to see your `Atom`, the change should be reverted!
  
- - `reverse`+`commit`+`push`
+ - `reverse`+`push`
  
  > the local is changed and we need to sync the cloud, namely Github!
  
