@@ -5,7 +5,7 @@
 
 #### GTD
 
-the Chinese word
+1. 要求下載atom
 
 
 
@@ -34,17 +34,15 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  - `branch` 
  > Let's create a branch called `Studying_0313_your english name` on Github
  
- > creat a new file call `ToShowBranch_0313_your english name.md` in the branch
- 
  > what happen at `Nework` in `Insights`?
  
- 3. Environment on  Github desktop (從這邊開始，
+ 3. Environment on  Github desktop (從這邊開始
  
  - `clone`
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
- #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `ToShowBranch_0313_your english name.md` file
+ #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
  - `commit`+`push`
  
@@ -52,19 +50,25 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > Let's go back to see your `Atom`, the change should be reverted!
  
- - `reverse`+`push`
+ - `push` again
  
  > the local is changed and we need to sync the cloud, namely Github!
  
- - `Add local repository` + `publish`
+ - `pull request in Github`
  
- > this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`
+ > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to master branch
  
- > Now, send yourself a pull request (這邊需要截圖）
+ > what happen at `Nework` in `Insights`?
+ 
+ - ~~`Add local repository` + `publish`~~
+ 
+ > ~~this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`~~
  
  3. Let's try on your own 
  
- - create a issue on this repo
+ - create a issue on this `PoMingChen/HelloGithub2` repo
+ 
+ (從這裡開始）
  
  ---
  
