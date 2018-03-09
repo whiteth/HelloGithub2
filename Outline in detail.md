@@ -24,7 +24,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
  1. what is Git (a version control system) (介紹觀念，很重要）
  
- 2. Environment on Github (**the cloud**)
+ 2. Environment on Github 
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -38,7 +38,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > what happen at `Nework` in `Insights`?
  
- 3. Environment on  Github desktop (**the local**）(從這邊開始，
+ 3. Environment on  Github desktop (從這邊開始，
  
  - `clone`
  
