@@ -48,7 +48,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `commit`+`push`
  
- - `commit`+`reverse`
+ - `reverse`+`commit`+`push`
  
  - `Add local repository` + `publish`
  
