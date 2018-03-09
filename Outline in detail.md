@@ -48,7 +48,13 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `commit`+`push`
  
+ - `reverse`
+ 
+ > Let's go back to see your `Atom`, the change should be reverted!
+ 
  - `reverse`+`commit`+`push`
+ 
+ > the local is changed and we need to sync the cloud, namely Github!
  
  - `Add local repository` + `publish`
  
