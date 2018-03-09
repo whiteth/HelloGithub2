@@ -44,7 +44,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
- > Now, stay at the branch in Github desktop
+ > Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
  - `commit`+`push`
  
