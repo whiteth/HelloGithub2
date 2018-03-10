@@ -91,9 +91,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  (19:50 10min break)，從這裡開始
  
- - create your own repo and named it as `HelloGithub_Learning`
- 
- - add the classmates beside you as your collaborator
+ - add the classmates beside you as your collaborator in your `HelloGithub2` repo which you fork from me
  
  --- 
  
