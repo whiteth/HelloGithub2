@@ -28,7 +28,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
- ！[](https://github.com/PoMingChen/HelloGithub2/blob/master/images/Github_fork_animation.gif）
+ ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/Github_fork_animation.gif)
  
  - `code` `issue` `project` `Wiki` `settings`
  > Let's look at `r4ds` and `E.Major-FB` repo
