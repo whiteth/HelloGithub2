@@ -65,12 +65,18 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  - `reverse`
  
  (一張點進去History裡面，示意要Reverse commit的圖）
+ 
+ (一張Github desktop revert 之後的示意圖）
+ 
+ (一張atom的圖，revert之後，若有重複，可以重複用）
 
  > Let's go back to see your `Atom`, the change should be reverted!
  
  - `push` again
  
  > the local is changed and we need to sync the cloud, namely Github!
+ 
+ （一張Github回到原本的圖）
  
  - `pull request in Github`
  
