@@ -60,6 +60,8 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  (一張Github desktop偵測到不同的示意圖）
  
+ (一張Github 檔案變化圖）
+ 
  - `reverse`
  
  (一張點進去History裡面，示意要Reverse commit的圖）
