@@ -28,23 +28,35 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
+ (截一張插肉，掃描的示意圖）
+ 
  - `code` `issue` `project` `Wiki` `settings`
  > Let's look at `r4ds` and `E.Major-FB` repo
  
+ (用電子手寫板）
+ 
  - `branch` 
  > Let's create a branch called `Studying_0313_your english name` on Github
+
+ > what happen at `Network` in `Insights`?
  
- > what happen at `Nework` in `Insights`?
+ （截一張在Github開branch的示意圖）
+ （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） 
  
- 3. Environment on  Github desktop (從這邊開始
+ 3. Environment on  Github desktop 
  
  - `clone`
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
+ （截圖一張在Github desktop裡面開啟clone repo的點擊的相對位置圖）
+ 
  #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
  - `commit`+`push`
+ 
+ (一張atom裡面的修改內容）
+ (一張Github desktop偵測到不同的示意圖）
  
  - `reverse`
  
@@ -56,7 +68,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `pull request in Github`
  
- > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to master branch
+ > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to `master` branch
  
  > what happen at `Nework` in `Insights`?
 
