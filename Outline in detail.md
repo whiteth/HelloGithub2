@@ -74,7 +74,11 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to `master` branch
  
- > what happen at `Nework` in `Insights`?
+ (截一張對位挑選的示意圖）
+ 
+ > what happen at `Network` in `Insights`?
+ 
+ （截一張箭頭指回主幹道的示意圖）
 
  
  3. Let's try on your own 
@@ -85,7 +89,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  ---
  
- (19:50 10min break)
+ (19:50 10min break)，從這裡開始
  
  - create your own repo and named it as `HelloGithub_Learning`
  
