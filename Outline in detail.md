@@ -95,7 +95,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  --- 
  
- 4. Let's work in a pair to resemble as team project
+ 4. Let's work in a pair to resemble as team project 
  
  - `pull request`
  
@@ -109,7 +109,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  #### HW
  
- - Add local repository` + `publish`
+ - `Add local repository + publish`
  
  > this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`
 
@@ -124,6 +124,8 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 > [Gitter, where developers come to talk](https://gitter.im/apps)
 
 > [interesting article about Github](https://www.ithome.com.tw/news/95284)
+
+> [Github Help](https://help.github.com)
 
 
 
