@@ -59,10 +59,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to master branch
  
  > what happen at `Nework` in `Insights`?
- 
- - ~~`Add local repository` + `publish`~~
- 
- > ~~this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`~~
+
  
  3. Let's try on your own 
  
@@ -91,6 +88,14 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  6. A quick course survey
  
  ---
+ 
+ #### HW
+ 
+ - Add local repository` + `publish`
+ 
+ > this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`
+
+ > open an issue in this `HelloGithub2` repo and paste the URL of your repo, therefore, the credit to get the 【經濟時事與多媒體出版】is completed.
  
  Bonus:
  
