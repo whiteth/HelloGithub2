@@ -42,7 +42,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  （截一張在Github開branch的示意圖）
  
- （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） 
+ （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） `
  
  3. Environment on  Github desktop 
  
@@ -105,9 +105,9 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  ---
  
- (19:50 10min break)，從這裡開始
+ (19:50 10min break)
  
- - add the classmates beside you as your collaborator in your `HelloGithub2` repo which was forked from me
+ - add the classmates beside you as your collaborator in `YourUserName/HelloGithub2` repo which was forked from me
  
  --- 
  
@@ -115,9 +115,26 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `pull request`
  
+ 請被加入的那位組員新開一個branch（名稱與`Studying_0313_your english name`相同）並在自己的分支的`Lecturing_0313.md`檔案新增一些文字敘述，並且執行`commit`+`push`+`pull request`
  
+ 這時候因為repo擁有者是組長，必須由他來審核這個pull request是否是適合併入到`master`主幹道裡面。
  
- 5. To know what to do when it's a contradiction
+ 因為只要組員針對該檔案進行更動，因此理論上會是：able to merge
+ 
+ 5. To know what to do when it's a conflict
+ 
+ 進行完上個部分的merge後，`master`主幹道就會擁有最新的專案進度，並同步到Github desktop
+ 
+ 這時兩人皆進到自己的分支，去針對同一行（自己選）去修改成不同內容
+ 
+ 修改好之後，由組長先在自己的分支`commit`+`push`+`pull request`欲進到主幹道，並merge完畢。
+ 
+ 再由組員重複一次先在自己的分支`commit`+`push`+`pull request`欲進到主幹道，此時會產生conflict
+ 
+ 由組長決定要將哪一段保留，並刪去哪些部分，最終形成新的主幹道。
+ 
+ 若是組長與組員同時接續要求pull request，因為Github是與原版本相比，兩者皆會able，但是唯有併入一個之後，衝突就會產生。
+ 
  
  6. A quick course survey
  
