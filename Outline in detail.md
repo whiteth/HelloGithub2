@@ -41,6 +41,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  > what happen at `Network` in `Insights`?
  
  （截一張在Github開branch的示意圖）
+ 
  （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） 
  
  3. Environment on  Github desktop 
@@ -56,10 +57,13 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  - `commit`+`push`
  
  (一張atom裡面的修改內容）
+ 
  (一張Github desktop偵測到不同的示意圖）
  
  - `reverse`
  
+ (一張點進去History裡面，示意要Reverse commit的圖）
+
  > Let's go back to see your `Atom`, the change should be reverted!
  
  - `push` again
@@ -77,7 +81,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - create a issue on this `PoMingChen/HelloGithub2` repo
  
- (從這裡開始）
+ - add something new in the `Lecturing_0313.md` and then `commit`+`push`+`pull request` again
  
  ---
  
@@ -108,6 +112,10 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  > this the opposite direction from `Github, the cloud` to `GithubDesktop, the local`
 
  > open an issue in this `HelloGithub2` repo and paste the URL of your repo, therefore, the credit to get the 【經濟時事與多媒體出版】is completed.
+ 
+ (找一個參考示範的連結或解說給他們參考）
+ 
+ ---
  
  Bonus:
  
