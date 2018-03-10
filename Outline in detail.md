@@ -48,9 +48,11 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `clone`
  
+ （截圖一張在Github desktop裡面開啟clone repo的點擊的相對位置圖）
+ 
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
- （截圖一張在Github desktop裡面開啟clone repo的點擊的相對位置圖）
+ (截圖一張branch也會在github desktop的示意圖）
  
  #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
@@ -78,9 +80,15 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  （一張Github回到原本的圖）
  
+ 
+ 
  - `pull request in Github`
  
  > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to `master` branch
+ 
+ （新增一句話：我覺得去日本自由行一個禮拜也很不錯，的atom圖片）
+ 
+  (新增一句話：我覺得去日本自由行一個禮拜也很不錯，的github desktop圖片）
  
  (截一張對位挑選的示意圖）
  
@@ -99,7 +107,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  (19:50 10min break)，從這裡開始
  
- - add the classmates beside you as your collaborator in your `HelloGithub2` repo which you fork from me
+ - add the classmates beside you as your collaborator in your `HelloGithub2` repo which was forked from me
  
  --- 
  
