@@ -78,7 +78,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > what happen at `Network` in `Insights`?
  
- （截一張箭頭指回主幹道的示意圖）
+ （截一張蔡植中箭頭指回主幹道的示意圖）
 
  
  3. Let's try on your own 
