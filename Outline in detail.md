@@ -132,9 +132,8 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - 主要重點：
  
-   + `Fork`/`README` `code` `issue` `project` `Wiki` `settings`/`branch` 
-   
-   + `clone`/`commit`+`push`/`reverse`/`pull request in Github`
+   + `Fork`/`README` `code` `issue` `project` `Wiki` `settings`/`branch`
+   + `clone`/`commit`+`push`/`reverse`/`pull request`
  
  - add something new in the `Lecturing_0313.md` and then `commit`+`push`+`pull request` again
  
