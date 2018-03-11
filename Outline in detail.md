@@ -22,9 +22,9 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
 ### Course Outline : 
 
-#### 1. what is Git (a version control system) (介紹觀念，很重要）
+### 1. what is Git (a version control system) (介紹觀念，很重要）
  
-#### 2. Environment on Github ： `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
+### 2. Environment on Github ： `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -40,7 +40,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） `
  
- 3. Environment on  Github desktop : `clone`/`commit`+`push`/`reverse`/`pull request in Github`
+###  3. Environment on  Github desktop : `clone`/`commit`+`push`/`reverse`/`pull request`
  
  - `clone`
  > 把雲端抓到本機
@@ -124,7 +124,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  （截一張蔡植中箭頭指回主幹道的示意圖）
 
  
- #### 3. Let's try on your own 
+#### 3-1. Let's try on your own 
  
  - 新增一個issue在這個`PoMingChen/HelloGithub2`repo當作發問，或者純粹留言
  
@@ -144,7 +144,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  --- 
  
-####  4. Let's work in a pair to resemble as team project 
+###  4. Let's work in a pair to resemble as team project 
  
  - `pull request`
  
@@ -157,7 +157,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  (一張允許同意合併的圖）
  
  
- #### 5. To know what to do when it's a conflict
+### 5. To know what to do when it's a conflict in pull request
  
  (一張由主幹道併入到我的分支的示意圖）
  
@@ -173,11 +173,11 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  
  
- 6. A quick course survey
+### 6. A quick course survey
  
  ---
  
- #### HW
+### HW
  
  - `Add local repository + publish`
  
