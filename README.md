@@ -7,11 +7,9 @@
 
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/簽到單QRCode.png)
 
-或者
+[或者點連結也是可以的](https://docs.google.com/forms/d/e/1FAIpQLScvECpfiGEvLRx-xMmIHqh-fI7BnnwiUMrlMwYPmCvVEpP_7w/viewform?entry.1052502873=DS-02&entry.1531639348&entry.653372015)
 
-[點連結也是可以的](https://docs.google.com/forms/d/e/1FAIpQLScvECpfiGEvLRx-xMmIHqh-fI7BnnwiUMrlMwYPmCvVEpP_7w/viewform?entry.1052502873=DS-02&entry.1531639348&entry.653372015)
-
-Course Outline : 
+### Course Outline : 
 
  1. what is Git (a version control system)
  
