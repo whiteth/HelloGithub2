@@ -16,7 +16,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
 ### Course Outline : 
 
-### 1. what is Git (a version control system) (介紹觀念，很重要）
+### 1. what is Git (a version control system) 
 
 - 版本控制系統有很多不同的軟體，最紅的是git
 
