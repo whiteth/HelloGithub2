@@ -74,9 +74,11 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  - `reverse`
  
 >如何進行版本回溯  
+
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse1.png)
 
 >版本回溯示意圖
+
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse2.png)
 
 >變回原始檔案內容並再次`push`
