@@ -24,7 +24,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
 - Github = Git + hub。Github.com提供Git的代管服務，允許使用者在網站上存取程式碼、專案和Git版本管理，也包含社交功能
  
-### 2. Environment on Github ： `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
+### 2. Environment on Github ： `README`/`Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -130,7 +130,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - 主要重點：
  
-   + `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
+   + `README`/`Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
    
    + `clone`/`commit`+`push`/`reverse`/`pull request in Github`
  
