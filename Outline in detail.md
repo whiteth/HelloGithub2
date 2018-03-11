@@ -24,7 +24,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
 #### 1. what is Git (a version control system) (介紹觀念，很重要）
  
-#### 2. Environment on Github 
+#### 2. Environment on Github ： `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -40,7 +40,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） `
  
- 3. Environment on  Github desktop 
+ 3. Environment on  Github desktop : `clone`/`commit`+`push`/`reverse`/`pull request in Github`
  
  - `clone`
  > 把雲端抓到本機
@@ -126,7 +126,13 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  #### 3. Let's try on your own 
  
- - create a issue on this `PoMingChen/HelloGithub2` repo
+ - 新增一個issue在這個`PoMingChen/HelloGithub2`repo當作發問，或者純粹留言
+ 
+ - 主要重點：
+ 
+   + `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
+   
+   + `clone`/`commit`+`push`/`reverse`/`pull request in Github`
  
  - add something new in the `Lecturing_0313.md` and then `commit`+`push`+`pull request` again
  
