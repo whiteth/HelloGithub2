@@ -49,8 +49,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  > 檢查剛才開設的分支是否也存在GithubDesktop?
  
-![已經開設的分支也會存在]
-(https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/branch_still_in_GithubDesktop.png)
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/branch_still_in_GithubDesktop.png)
  
  #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
@@ -104,11 +103,19 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest1.png)
 
+> 留意檔案內更動內容
+
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest2.png)
+
+> 說明本次欲併入的意義與具體修改內容
 
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest3.png)
 
+> Github會偵測是否與主幹道產生衝突
+
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest4.png)
+
+> 主幹道更新成功，離專案完成更近一步！
 
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest5.png)
 
