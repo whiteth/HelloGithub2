@@ -53,7 +53,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
- - `commit`+`push`
+ - `commit(提交新版本）`+`push`
  
  > 一開始的檔案內容
  
