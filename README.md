@@ -5,7 +5,7 @@
 
 簽到QRcode：
 
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/簽到單QR%20Code.png)
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/簽到單QRCode.png)
 
 或者
 
