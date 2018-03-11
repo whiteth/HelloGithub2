@@ -3,11 +3,13 @@
 
 ### this is the repo for Github minicourse in E.Major 
 
-簽到：
+簽到QRcode：
 
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/簽到單QR%20Code.png)
 
+或者
 
-
+[點連結也是可以的](https://docs.google.com/forms/d/e/1FAIpQLScvECpfiGEvLRx-xMmIHqh-fI7BnnwiUMrlMwYPmCvVEpP_7w/viewform?entry.1052502873=DS-02&entry.1531639348&entry.653372015)
 
 Course Outline : 
 
