@@ -20,27 +20,23 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
 ---
 
-#### Course Outline : 
+### Course Outline : 
 
- 1. what is Git (a version control system) (介紹觀念，很重要）
+#### 1. what is Git (a version control system) (介紹觀念，很重要）
  
- 2. Environment on Github 
+#### 2. Environment on Github 
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
- ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/Github_fork_animation.gif)
+ ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Github_fork_animation.gif)
  
  - `code` `issue` `project` `Wiki` `settings`
  > Let's look at `r4ds` and `E.Major-FB` repo
  
- (用電子手寫板）
- 
  - `branch` 
  > Let's create a branch called `Studying_0313_your english name` on Github
-
- > what happen at `Network` in `Insights`?
  
- ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/creat_a_branch.png)
+ ![如何開設分支](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/creat_a_branch.png)
  
  （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） `
  
@@ -48,49 +44,49 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `clone`
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/clone_animation.png)
+![如何clone一個repo](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/clone_animation.png)
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/branch_still_in_GithubDesktop.png)
+![已經開設的分支也會存在](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/branch_still_in_GithubDesktop.png)
  
  #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
  - `commit`+`push`
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom1.png)
+![一開始的檔案內容](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom1.png)
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom2.png)
+![新增一句話](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom2.png)
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubdstop1.png)
+![GithubDesktop會偵測到檔案變化](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubdstop1.png)
 
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubsync1.png)
+![同步到雲端](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubsync1.png)
  
  - `reverse`
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse1.png)
+![如何進行版本回溯](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse1.png)
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse2.png)
+![版本回溯示意圖](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse2.png)
 
  > Let's go back to see your `Atom`, the change should be reverted!
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom3.png)
+![變回原始檔案內容](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom3.png)
  
  - `push` again
  
  > the local is changed and we need to sync the cloud, namely Github!
 
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubsync2.png)
+![版本回溯也同步到雲端](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubsync2.png)
  
  - `pull request in Github`
  
  > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to `master` branch
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom4.png)
+![再次新增檔案內容](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom4.png)
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubdesktop2.png)
+![GithubDesktop偵測到改變](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubdesktop2.png)
  
-![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest1.png)
+![如何送出pull request](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest1.png)
 
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest2.png)
 
