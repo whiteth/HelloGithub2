@@ -40,7 +40,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 
  > what happen at `Network` in `Insights`?
  
- （截一張在Github開branch的示意圖）
+ ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/creat_a_branch.png)
  
  （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） `
  
@@ -48,50 +48,58 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `clone`
  
- （截圖一張在Github desktop裡面開啟clone repo的點擊的相對位置圖）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/clone_animation.png)
  
  > Is there still your branch `Studying_0313_your english name` in Github desktop environment?
  
- (截圖一張branch也會在github desktop的示意圖）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/branch_still_in_GithubDesktop.png)
  
  #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
  
  - `commit`+`push`
  
- (一張atom裡面的修改內容）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom1.png)
  
- (一張Github desktop偵測到不同的示意圖）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom2.png)
  
- (一張Github 檔案變化圖）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubdstop1.png)
+
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubsync1.png)
  
  - `reverse`
  
- (一張點進去History裡面，示意要Reverse commit的圖）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse1.png)
  
- (一張Github desktop revert 之後的示意圖）
- 
- (一張atom的圖，revert之後，若有重複，可以重複用）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/reverse2.png)
 
  > Let's go back to see your `Atom`, the change should be reverted!
+ 
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom3.png)
  
  - `push` again
  
  > the local is changed and we need to sync the cloud, namely Github!
- 
- （一張Github回到原本的圖）
- 
- 
+
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubsync2.png)
  
  - `pull request in Github`
  
  > Add the new content in `Lecturing_0313.md` from the `Studying_0313_your english name` branch to `master` branch
  
- （新增一句話：我覺得去日本自由行一個禮拜也很不錯，的atom圖片）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/atom4.png)
  
-  (新增一句話：我覺得去日本自由行一個禮拜也很不錯，的github desktop圖片）
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/Githubdesktop2.png)
  
- (截一張對位挑選的示意圖）
- 
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest1.png)
+
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest2.png)
+
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest3.png)
+
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest4.png)
+
+![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest5.png)
+
  > what happen at `Network` in `Insights`?
  
  （截一張蔡植中箭頭指回主幹道的示意圖）
