@@ -5,13 +5,7 @@
 
 #### GTD
 
-1. 要求下載atom
 
-
-
-what are the good plug-in on Github （not included in class)?
-
-Is there any time to get more understanding on bookdown(the `pandoc` package)
 
 Finally, I will need three outline file Outline (in detail) (in further detailed)
 
@@ -23,6 +17,12 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
 ### Course Outline : 
 
 ### 1. what is Git (a version control system) (介紹觀念，很重要）
+
+- 版本控制系統有很多不同的軟體，最紅的是git。
+
+- Git是分散式版本控制系統（Decentralized Version Control System）。
+
+- Github = Git + hub。Github.com提供Git的代管服務，允許使用者在網站上存取程式碼、專案和Git版本管理，也包含社交功能。
  
 ### 2. Environment on Github ： `Fork`/`code` `issue` `project` `Wiki` `settings`/`branch` 
  
