@@ -16,10 +16,9 @@ Course Outline :
  2. Environment on Github
  
  3. EMvironment on Github desktop
- 
- ---
 
- 3.1 Let's try on your own 
+
+    + 3.1 Let's try on your own 
  
  ---
  
