@@ -1,19 +1,3 @@
-# HelloGithub2
-
-
-### this is the repo for Github minicourse in E.Major 
-
-#### GTD
-
-
-
-Finally, I will need three outline file Outline (in detail) (in further detailed)
-
-
-
-
----
-
 ### Course Outline : 
 
 ### 1. what is Git (a version control system) 
@@ -182,7 +166,7 @@ Finally, I will need three outline file Outline (in detail) (in further detailed
  
  - `Add local repository + publish`
  
- > 從Github到Github Desktop是從雲端到本機的過程，那如何從本機到雲端呢？（Add local Repository)
+ > 從Github到Github Desktop是從雲端到本機的過程，那如何從本機到雲端呢？（Add local Repository)（請不要使用中文路徑）
 
  > 有意願選修【經濟時事與多媒體出版】學分的同學，請將作業完成後的repo網址，貼到`PoMingChen/HelloGithub2`的issue裡面，就算完成。
  
