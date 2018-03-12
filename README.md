@@ -9,6 +9,12 @@
 
 [或者點連結也是可以的](https://docs.google.com/forms/d/e/1FAIpQLScvECpfiGEvLRx-xMmIHqh-fI7BnnwiUMrlMwYPmCvVEpP_7w/viewform?entry.1052502873=DS-02&entry.1531639348&entry.653372015)
 
+#### 課前要求：
+
+1. 登入Github
+2. 下載Github Desktop並登入
+3. 下載Atom
+
 ### Course Outline : 
 
  1. what is Git (a version control system)
