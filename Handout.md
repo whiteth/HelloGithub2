@@ -17,7 +17,7 @@
  > Let's look at `r4ds` and `E.Major-FB` repo
  
  - `branch` 
- > 現在創造一個叫做`Studying_0313_your english name`的分支
+ > 現在在你fork回去的repo創造一個叫做`Studying_0313_your english name`的分支
  
  ![如何開設分支](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/creat_a_branch.png)
  
