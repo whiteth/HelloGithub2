@@ -1,4 +1,3 @@
-### Course Outline : 
 
 ### 1. what is Git (a version control system) 
 
