@@ -1,5 +1,5 @@
 
-### 1. What is Git (a version control system) 
+## 1. What is Git (a version control system) 
 
 - 版本控制系統有很多不同的軟體，最紅的是git
 
@@ -7,7 +7,7 @@
 
 - Github = Git + hub。Github.com提供Git的代管服務，允許使用者在網站上存取程式碼、專案和Git版本管理，也包含社交功能
  
-### 2. Environment on Github ： `Fork`/`README` `code` `issue` `project` `Wiki` `settings`/`branch` 
+## 2. Environment on Github ： `Fork`/`README` `code` `issue` `project` `Wiki` `settings`/`branch` 
  
  - `Fork` Let's fork this repo and [r4ds](https://github.com/hadley/r4ds)
  
@@ -22,7 +22,7 @@
  ![如何開設分支](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/creat_a_branch.png)
  
  
-###  3. Environment on  Github desktop : `clone`/`commit`+`push`/`reverse`/`pull request`
+##  3. Environment on  Github desktop : `clone`/`commit`+`push`/`reverse`/`pull request`
  
  - `clone`
  > 把雲端抓到本機
@@ -107,7 +107,7 @@
  
 
  
-#### 3-1. Let's try on your own 
+### 3-1. Let's try on your own 
  
  - 新增一個issue在這個`PoMingChen/HelloGithub2`repo當作發問，或者純粹留言
  
@@ -126,7 +126,7 @@
  
  --- 
  
-###  4. Let's work in a pair to resemble as team project (組長：植中；組員：柏銘）
+##  4. Let's work in a pair to resemble as team project
  
 - `先示範一次成功的pull request`
  
@@ -135,7 +135,7 @@
    2. 柏銘在自己的分支內更新 `Lecturing_0313.md`，並且執行`commit`+`push`+`pull request`
     
  
-### 5. To know what to do when it's a conflict in pull request
+## 5. To know what to do when it's a conflict in pull request
 
 - `再示範面臨衝突的pull request`
 
@@ -151,7 +151,7 @@
    
    5.（組長）植中需要決定要留下哪些部分
 
-### 6. A quick course survey
+#### A quick course survey
  
  ---
  
