@@ -1,5 +1,5 @@
 
-### 1. what is Git (a version control system) 
+### 1. What is Git (a version control system) 
 
 - 版本控制系統有很多不同的軟體，最紅的是git
 
