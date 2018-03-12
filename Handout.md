@@ -33,7 +33,7 @@
  
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/branch_still_in_GithubDesktop.png)
  
- #### Now, stay at the branch in Github desktop and use your `Atom` software to open the `Lecturing_0313.md` file
+ #### Now, stay at the branch `Studying_0313_your english name` in Github desktop and use your `Atom` software to open the `demo_0313.md` file
  
  - `commit(提交新版本）`+`push`
  
