@@ -113,7 +113,7 @@
  
  - 主要重點：
  
-   + `Fork`/`README` `code` `issue` `project` `Wiki` `settings`/`branch`
+   + `Fork`/`README` `code` `issue` `project` `Wiki` `settings`/`branch`  
    + `clone`/`commit`+`push`/`reverse`/`pull request`
  
  - add something new in the `Lecturing_0313.md` and then `commit`+`push`+`pull request` again
@@ -126,35 +126,31 @@
  
  --- 
  
-###  4. Let's work in a pair to resemble as team project 
+###  4. Let's work in a pair to resemble as team project (組長：植中；組員：柏銘）
  
- - `pull request`
+- `先示範一次成功的pull request`
  
- (一張植中開設他的分支的圖）
- 
- (一張植中新增內容，並同步到雲端的圖）
- 
- (一張植中送出pull request的base 和 compare)
- 
- (一張允許同意合併的圖）
- 
+   1. （組員）柏銘在（組長）植中的repo裡面開設分支`Studying_0313_Alex`
+   
+   2. 柏銘在自己的分支內更新 `Lecturing_0313.md`，並且執行`commit`+`push`+`pull request`
+    
  
 ### 5. To know what to do when it's a conflict in pull request
- 
- (一張由主幹道併入到我的分支的示意圖）
- 
-（我修改的內容）
 
-（植中修改的內容）
- 
- （由我送出合併請求給主幹道的畫面）
- 
- （一張植中送出給給主幹道的合併請求，失敗的畫面）
- 
- （最終由組長決定保留的畫面）
- 
- 
- 
+- `再示範面臨衝突的pull request`
+
+> 會發生衝突，是因為改到同一行
+
+   1. 柏銘再次於在自己的分支內更新 `Lecturing_0313.md`，並且執行`commit`+`push`+`pull request`
+   
+   2. 此時，植中同意merge這個`pull request`，目前都跟剛才示範的成功例子是相同的。
+   
+   3. 植中也在自己的分支`Studying_0313_Lambert`進行修改，而他不小心(或彼此未充分溝通）也修改了同一行，並且執行`commit`+`push`+`pull request`
+   
+   4. 此時，會遇到`Can't automatically merge`
+   
+   5.（組長）植中需要決定要留下哪些部分
+
 ### 6. A quick course survey
  
  ---
