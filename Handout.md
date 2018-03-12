@@ -21,7 +21,6 @@
  
  ![如何開設分支](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/creat_a_branch.png)
  
- （截一張蔡植中的Network，要標出那個點的示意說明就是你的branch名稱） `
  
 ###  3. Environment on  Github desktop : `clone`/`commit`+`push`/`reverse`/`pull request`
  
@@ -104,9 +103,8 @@
 
 ![](https://github.com/PoMingChen/HelloGithub2/blob/master/images/0313_Github_minicourse/pullrequest5.png)
 
- > what happen at `Network` in `Insights`?
+ > Finally, what happen at `Network` in `Insights`?
  
- （截一張蔡植中箭頭指回主幹道的示意圖）
 
  
 #### 3-1. Let's try on your own 
