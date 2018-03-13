@@ -150,10 +150,12 @@
    4. 此時，會遇到`Can't automatically merge`
    
    5.（組長）植中需要決定要留下哪些部分
-
-#### [A quick course survey](https://www.surveycake.com/s/dVVL3)
+   
+#### 5-1. Let's try on your own 
  
- ---
+---
+ 
+#### [A quick course survey](https://www.surveycake.com/s/dVVL3)
  
 ### HW
  
