@@ -42,6 +42,8 @@
  
  Bonus:
  
+> [課堂截圖](https://drive.google.com/open?id=1qxvZvjaEK8OQKMtGqQnuIbcj0wOQeVK9)
+ 
 > [Gitter, where developers come to talk](https://gitter.im/apps)
 
 > [interesting article about Github](https://www.ithome.com.tw/news/95284)
