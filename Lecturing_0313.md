@@ -5,7 +5,3 @@
 該怎麼過比較好呢？要不要趁機安排出國旅行？
 
 示範commit+push
-
-PoMing~~~
-
-示範reverse
